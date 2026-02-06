@@ -7,14 +7,13 @@ My focus is on translating complex data and research ideas into **robust, real-w
 
 ---
 
-## 🔬 Areas of Interest
+## 🔬 Domain of Experiecne
 - Large Language Models (LLMs) & GenAI
 - Retrieval-Augmented Generation (RAG)
-- Text-to-SQL & schema-aware prompting
+- Machine Learning, Supervised & Unsupervised Learning.
 - Multimodal AI (vision–language models)
 - Anomaly detection & root-cause analysis
 - Recommendation systems & time series forecasting
-- End-to-end ML system design & deployment
 
 ---
 
@@ -98,8 +97,8 @@ ChromaDB · Databricks · Amazon Bedrock · SageMaker · MLflow · DVC · Looker
 
 ## 📫 Connect With Me
 - 📧 Email: sindhumarri01@gmail.com
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 🌐 Portfolio: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/sindhu-marri-8aa982192/
+- 🌐 Portfolio: https://sindhumarriwebsite.lovable.app/
 
 ---
 
