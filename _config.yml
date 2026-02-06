@@ -1,0 +1,7 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Sindhu Marri]
+tagline: [Data Scientist - Building intelligent data solutions with GenAI, LLMs, and ML]
+description: [Data Scientist with a strong foundation in Machine Learning, NLP and Large Language Models.
+I enjoy working at the intersection of ML research and real-world systems, translating theoretical ideas into scalable GenAI and multimodal applications.]
