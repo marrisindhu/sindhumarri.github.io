@@ -1,118 +1,106 @@
-# sindhumarri.github.io
-👋 Hi, I’m Sindhu Marri
+# 👋 Hi, I’m Sindhu Marri
 
-🚀 Data Scientist | GenAI & LLM Engineer | Applied ML Researcher
-📍 India | 🎓 IIT Guwahati (B.Tech)
+**Data Scientist building production-grade GenAI & LLM systems**
 
-I build production-grade machine learning and GenAI systems—from LLM-powered analytics assistants to multimodal retrieval systems—bridging research, engineering, and business impact.
+I work on **LLM-powered analytics, RAG pipelines, multimodal AI, and scalable machine learning systems**.  
+My focus is on translating complex data and research ideas into **robust, real-world solutions with measurable impact**.
 
-🔬 What I Work On
+---
 
-Large Language Models (LLMs) – RAG, schema-aware prompting, SQL generation, guardrails
+## 🔬 Areas of Interest
+- Large Language Models (LLMs) & GenAI
+- Retrieval-Augmented Generation (RAG)
+- Text-to-SQL & schema-aware prompting
+- Multimodal AI (vision–language models)
+- Anomaly detection & root-cause analysis
+- Recommendation systems & time series forecasting
+- End-to-end ML system design & deployment
 
-Applied Machine Learning – anomaly detection, recommendation systems, time-series forecasting
+---
 
-Multimodal AI – vision–language models, embedding-based retrieval
+## 💼 Professional Experience
 
-End-to-End ML Systems – APIs, data pipelines, dashboards, deployment
+### **Data Scientist — Walmart Global Tech India**
+**Jul 2023 – Present**
 
-💼 Professional Experience
-Data Scientist — Walmart Global Tech India
+**Report Builder Bot (LLM-powered Analytics Assistant)**
+- Built an LLM-driven text-to-SQL analytics assistant using LangChain and GPT-4
+- Designed metadata-driven vector stores for schema discovery and query grounding
+- Implemented RAG pipelines to align user intent with relevant dataset fields
+- Added schema-aware prompting and SQL guardrails, reducing hallucinations and failures by 70%
 
-Jul 2023 – Present
+**Guided Insights (Retail Analytics Platform)**
+- Developed anomaly detection and root-cause analysis frameworks for supplier performance
+- Built graph-based clustering and NLP embedding models to identify competitive peers
+- Introduced a Relative Performance Index explaining ~60% of competitive gaps
+- Increased weekly active users from 40 to 110+
+- Deployed FastAPI services with real-time Python and batch PySpark pipelines
+- Built Looker dashboards for business monitoring
 
-🧠 Report Builder Bot (LLM-powered Analytics Assistant)
+---
 
-Built an LLM-driven text-to-SQL analytics assistant using LangChain and GPT-4
+## 🧪 Research Experience
 
-Designed metadata-driven vector stores for schema discovery and query grounding
+### **Research Intern — IIT Guwahati**
+**May 2022 – Jul 2022**
 
-Implemented RAG pipelines to align user intent with relevant dataset fields
+- Worked on Physics-Informed Machine Learning for stochastic systems
+- Modeled non-deterministic dynamics using stochastic differential equations
+- Applied Ito–Taylor numerical schemes via MATLAB simulations
 
-Added schema-aware prompting & SQL guardrails, reducing hallucinations and failures by 70%
+---
 
-📊 Guided Insights (Retail Analytics Platform)
+## 🧩 Selected Projects
 
-Built anomaly detection & root-cause analysis frameworks for supplier performance
+### 🔍 Multimodal Semantic Image Search
+- Built text-to-image semantic retrieval using CLIP embeddings
+- Implemented vector similarity search with ChromaDB and metadata indexing
+- Achieved Recall@10 of 82% and mAP of 0.74
+- Improved retrieval relevance by 30% over keyword baselines
 
-Designed graph-based clustering + NLP embeddings to identify competitive peers
+### 📢 Advertisement Recommendation System (Walmart Hackathon)
+- Applied K-Means clustering to identify underperforming regions
+- Built XGBoost models for ad performance prediction
+- Modeled seasonality using SARIMA
+- Designed a linear programming optimizer for budget and frequency allocation
 
-Introduced a Relative Performance Index, explaining 60% of competitive gaps
+### 🖼️ Image De-noising Tool
+- Implemented PRIDNet with multi-scale U-Nets and channel attention
+- Trained on SIDD and RENOIR real-noise datasets
+- Achieved 1.2–1.5 dB PSNR and 0.02–0.03 SSIM improvements over baselines
 
-Increased weekly active users from 40 → 110+
+---
 
-Deployed FastAPI services, real-time Python + batch PySpark pipelines, and Looker dashboards
+## 🛠️ Tech Stack
 
-🧪 Research Experience
-Research Intern — IIT Guwahati
-
-May 2022 – Jul 2022
-
-Worked on Physics-Informed Machine Learning for stochastic systems
-
-Modeled non-deterministic dynamics using Stochastic Differential Equations
-
-Applied Ito–Taylor numerical schemes with MATLAB simulations
-
-🧩 Key Projects
-🔍 Multimodal Semantic Image Search
-
-Built text-to-image retrieval using CLIP vision–language embeddings
-
-Implemented ChromaDB vector search with metadata-aware indexing
-
-Achieved Recall@10 = 82%, mAP = 0.74
-
-Improved retrieval relevance by 30% over keyword baselines
-
-📢 Advertisement Recommendation System (Walmart Hackathon)
-
-Applied K-Means clustering to identify underperforming regions
-
-Built XGBoost models for ad performance prediction
-
-Modeled seasonality using SARIMA
-
-Designed a linear programming optimizer for budget & frequency allocation
-
-🖼️ Image De-noising Tool
-
-Implemented PRIDNet with multi-scale U-Nets & channel attention
-
-Trained on SIDD & RENOIR real-noise datasets
-
-Achieved +1.2–1.5 dB PSNR and +0.02–0.03 SSIM over baselines
-
-🛠️ Tech Stack
-
-Languages & Tools
+**Languages & Tools**  
 Python · SQL · PySpark · FastAPI · Git · Docker
 
-Frameworks & Libraries
+**Frameworks & Libraries**  
 LangChain · HuggingFace · TensorFlow · PyTorch · NetworkX · Streamlit
 
-ML & AI
+**Machine Learning & AI**  
 Supervised & Unsupervised Learning · NLP · GenAI · Time Series · Ensemble Models
 
-MLOps & Data
+**MLOps & Data**  
 ChromaDB · Databricks · Amazon Bedrock · SageMaker · MLflow · DVC · Looker
 
-🧑‍💼 Leadership & Activities
+---
 
-Core Team Lead — TechExpo (IIT Guwahati)
+## 🧑‍💼 Leadership
 
-Led a 15-member team for 2 years
+**Core Team Lead — TechExpo (IIT Guwahati)**
+- Led a 15-member team for two years
+- Organized science exhibitions with 550+ participants
+- Conceptualized and executed a virtual exhibition platform
 
-Organized science exhibitions with 550+ participants
+---
 
-Conceptualized and executed a virtual TechExpo platform
+## 📫 Connect With Me
+- 📧 Email: sindhumarri01@gmail.com
+- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 🌐 Portfolio: *(optional)*
 
-📫 Let’s Connect
+---
 
-📧 Email: sindhumarri01@gmail.com
-
-💼 LinkedIn: (add your LinkedIn URL here)
-
-🌐 Portfolio: (optional)
-
-⭐ If you like my work, feel free to star my repositories or reach out for collaboration!
+⭐ Feel free to explore my repositories or reach out for collaboration!
